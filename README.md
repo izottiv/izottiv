@@ -1,8 +1,8 @@
 ### Hi there! My name is Vítor Carvalho 👋
 
-![stats](https://github-readme-stats.vercel.app/api?username=izottiv&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=izottiv&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=izottiv&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=izottiv&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-carvalho-00a055305/)
